@@ -3,15 +3,15 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0.5rem;
+    padding: 1rem;
   }
   
   .nav-barnd {
     font-family: "poppins", sans-serif;
-    font-weight: 700;
+    font-weight: 900;
     font-style: bold;
     font-size: 1.5rem;
-    letter-spacing: 0.450rem;
+    letter-spacing: 0.469rem;
   }
   
   .nav-link {
@@ -30,7 +30,7 @@
   .nav-btn {
     background-color: black;
     color: white;
-    padding: 0.850rem;
+    padding: 0.9rem;
     border: none;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -65,7 +65,7 @@
   .home-sec-border {
     border-right: 2.5px solid white;
     width: 0;
-    height: 50px;
+    height: 20px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -113,6 +113,6 @@
   }
   .dest-img > img {
     width: 30%;
-    height: 300%;
+    height: 30%;
     border-radius: 4rem;
   }
